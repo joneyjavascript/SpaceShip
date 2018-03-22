@@ -1,2 +1,3 @@
-# SpaceShip
-Jogo de nave feito em linguagem C
+# Space Ship
+
+pure C ship game protótipe
