@@ -1,3 +1,3 @@
 # Space Ship
 
-pure C ship game protótipe
+Ship game prototype made in C language
